@@ -1,4 +1,4 @@
-import inquierer from "inquirer"
+ import inquierer from "inquirer"
 let todos =[] // Shopper[]
 let condition =true
 
